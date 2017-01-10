@@ -1,0 +1,450 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,baoshi_png,button_accept_png,button_finish_png,d1_png,d2_png,d3_png,d4_png,d5_png,d6_png,grass_png,ground_jpg,heroes_png,killmonster_png,l1_png,l2_png,l3_png,l4_png,l5_png,l6_png,mission_acceptable_png,mission_finish_png,mission_ongoing_png,missionblank_png,missionblank_exit_png,n1d1_png,n1d2_png,n1d3_png,n1d4_png,n1l1_png,n1l2_png,n1l3_png,n1l4_png,n1r1_png,n1r2_png,n1r3_png,n1r4_png,n1u1_png,n1u2_png,n1u3_png,n1u4_png,n2d1_png,n2d2_png,n2d3_png,n2d4_png,n2l1_png,n2l2_png,n2l3_png,n2l4_png,n2r1_png,n2r2_png,n2r3_png,n2r4_png,n2u1_png,n2u2_png,n2u3_png,n2u4_png,npc1_0_gif,npc1_1_png,npc1_2_gif,npc1_3_gif,npc2_0_png,npc2_1_png,npc2_2_png,npc2_3_png,pileum_png,r1_png,r2_png,r3_png,r4_png,r5_png,r6_png,rod_png,shuijing_png,task_move_png,task_panel_png,u1_png,u2_png,u3_png,u4_png,u5_png,u6_png,userpanel_png,wall_png,water_png,zuanshi_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "baoshi_png",
+			"type": "image",
+			"url": "assets/baoshi.png"
+		},
+		{
+			"name": "button_accept_png",
+			"type": "image",
+			"url": "assets/button_accept.png"
+		},
+		{
+			"name": "button_finish_png",
+			"type": "image",
+			"url": "assets/button_finish.png"
+		},
+		{
+			"name": "d1_png",
+			"type": "image",
+			"url": "assets/d1.png"
+		},
+		{
+			"name": "d2_png",
+			"type": "image",
+			"url": "assets/d2.png"
+		},
+		{
+			"name": "d3_png",
+			"type": "image",
+			"url": "assets/d3.png"
+		},
+		{
+			"name": "d4_png",
+			"type": "image",
+			"url": "assets/d4.png"
+		},
+		{
+			"name": "d5_png",
+			"type": "image",
+			"url": "assets/d5.png"
+		},
+		{
+			"name": "d6_png",
+			"type": "image",
+			"url": "assets/d6.png"
+		},
+		{
+			"name": "grass_png",
+			"type": "image",
+			"url": "assets/grass.png"
+		},
+		{
+			"name": "ground_jpg",
+			"type": "image",
+			"url": "assets/ground.jpg"
+		},
+		{
+			"name": "heroes_png",
+			"type": "image",
+			"url": "assets/heroes.png"
+		},
+		{
+			"name": "killmonster_png",
+			"type": "image",
+			"url": "assets/killmonster.png"
+		},
+		{
+			"name": "l1_png",
+			"type": "image",
+			"url": "assets/l1.png"
+		},
+		{
+			"name": "l2_png",
+			"type": "image",
+			"url": "assets/l2.png"
+		},
+		{
+			"name": "l3_png",
+			"type": "image",
+			"url": "assets/l3.png"
+		},
+		{
+			"name": "l4_png",
+			"type": "image",
+			"url": "assets/l4.png"
+		},
+		{
+			"name": "l5_png",
+			"type": "image",
+			"url": "assets/l5.png"
+		},
+		{
+			"name": "l6_png",
+			"type": "image",
+			"url": "assets/l6.png"
+		},
+		{
+			"name": "mission_acceptable_png",
+			"type": "image",
+			"url": "assets/mission_acceptable.png"
+		},
+		{
+			"name": "mission_finish_png",
+			"type": "image",
+			"url": "assets/mission_finish.png"
+		},
+		{
+			"name": "mission_ongoing_png",
+			"type": "image",
+			"url": "assets/mission_ongoing.png"
+		},
+		{
+			"name": "missionblank_png",
+			"type": "image",
+			"url": "assets/missionblank.png"
+		},
+		{
+			"name": "missionblank_exit_png",
+			"type": "image",
+			"url": "assets/missionblank_exit.png"
+		},
+		{
+			"name": "n1d1_png",
+			"type": "image",
+			"url": "assets/n1d1.png"
+		},
+		{
+			"name": "n1d2_png",
+			"type": "image",
+			"url": "assets/n1d2.png"
+		},
+		{
+			"name": "n1d3_png",
+			"type": "image",
+			"url": "assets/n1d3.png"
+		},
+		{
+			"name": "n1d4_png",
+			"type": "image",
+			"url": "assets/n1d4.png"
+		},
+		{
+			"name": "n1l1_png",
+			"type": "image",
+			"url": "assets/n1l1.png"
+		},
+		{
+			"name": "n1l2_png",
+			"type": "image",
+			"url": "assets/n1l2.png"
+		},
+		{
+			"name": "n1l3_png",
+			"type": "image",
+			"url": "assets/n1l3.png"
+		},
+		{
+			"name": "n1l4_png",
+			"type": "image",
+			"url": "assets/n1l4.png"
+		},
+		{
+			"name": "n1r1_png",
+			"type": "image",
+			"url": "assets/n1r1.png"
+		},
+		{
+			"name": "n1r2_png",
+			"type": "image",
+			"url": "assets/n1r2.png"
+		},
+		{
+			"name": "n1r3_png",
+			"type": "image",
+			"url": "assets/n1r3.png"
+		},
+		{
+			"name": "n1r4_png",
+			"type": "image",
+			"url": "assets/n1r4.png"
+		},
+		{
+			"name": "n1u1_png",
+			"type": "image",
+			"url": "assets/n1u1.png"
+		},
+		{
+			"name": "n1u2_png",
+			"type": "image",
+			"url": "assets/n1u2.png"
+		},
+		{
+			"name": "n1u3_png",
+			"type": "image",
+			"url": "assets/n1u3.png"
+		},
+		{
+			"name": "n1u4_png",
+			"type": "image",
+			"url": "assets/n1u4.png"
+		},
+		{
+			"name": "n2d1_png",
+			"type": "image",
+			"url": "assets/n2d1.png"
+		},
+		{
+			"name": "n2d2_png",
+			"type": "image",
+			"url": "assets/n2d2.png"
+		},
+		{
+			"name": "n2d3_png",
+			"type": "image",
+			"url": "assets/n2d3.png"
+		},
+		{
+			"name": "n2d4_png",
+			"type": "image",
+			"url": "assets/n2d4.png"
+		},
+		{
+			"name": "n2l1_png",
+			"type": "image",
+			"url": "assets/n2l1.png"
+		},
+		{
+			"name": "n2l2_png",
+			"type": "image",
+			"url": "assets/n2l2.png"
+		},
+		{
+			"name": "n2l3_png",
+			"type": "image",
+			"url": "assets/n2l3.png"
+		},
+		{
+			"name": "n2l4_png",
+			"type": "image",
+			"url": "assets/n2l4.png"
+		},
+		{
+			"name": "n2r1_png",
+			"type": "image",
+			"url": "assets/n2r1.png"
+		},
+		{
+			"name": "n2r2_png",
+			"type": "image",
+			"url": "assets/n2r2.png"
+		},
+		{
+			"name": "n2r3_png",
+			"type": "image",
+			"url": "assets/n2r3.png"
+		},
+		{
+			"name": "n2r4_png",
+			"type": "image",
+			"url": "assets/n2r4.png"
+		},
+		{
+			"name": "n2u1_png",
+			"type": "image",
+			"url": "assets/n2u1.png"
+		},
+		{
+			"name": "n2u2_png",
+			"type": "image",
+			"url": "assets/n2u2.png"
+		},
+		{
+			"name": "n2u3_png",
+			"type": "image",
+			"url": "assets/n2u3.png"
+		},
+		{
+			"name": "n2u4_png",
+			"type": "image",
+			"url": "assets/n2u4.png"
+		},
+		{
+			"name": "npc1_0_gif",
+			"type": "image",
+			"url": "assets/npc1_0.gif"
+		},
+		{
+			"name": "npc1_1_png",
+			"type": "image",
+			"url": "assets/npc1_1.png"
+		},
+		{
+			"name": "npc1_2_gif",
+			"type": "image",
+			"url": "assets/npc1_2.gif"
+		},
+		{
+			"name": "npc1_3_gif",
+			"type": "image",
+			"url": "assets/npc1_3.gif"
+		},
+		{
+			"name": "npc2_0_png",
+			"type": "image",
+			"url": "assets/npc2_0.png"
+		},
+		{
+			"name": "npc2_1_png",
+			"type": "image",
+			"url": "assets/npc2_1.png"
+		},
+		{
+			"name": "npc2_2_png",
+			"type": "image",
+			"url": "assets/npc2_2.png"
+		},
+		{
+			"name": "npc2_3_png",
+			"type": "image",
+			"url": "assets/npc2_3.png"
+		},
+		{
+			"name": "pileum_png",
+			"type": "image",
+			"url": "assets/pileum.png"
+		},
+		{
+			"name": "r1_png",
+			"type": "image",
+			"url": "assets/r1.png"
+		},
+		{
+			"name": "r2_png",
+			"type": "image",
+			"url": "assets/r2.png"
+		},
+		{
+			"name": "r3_png",
+			"type": "image",
+			"url": "assets/r3.png"
+		},
+		{
+			"name": "r4_png",
+			"type": "image",
+			"url": "assets/r4.png"
+		},
+		{
+			"name": "r5_png",
+			"type": "image",
+			"url": "assets/r5.png"
+		},
+		{
+			"name": "r6_png",
+			"type": "image",
+			"url": "assets/r6.png"
+		},
+		{
+			"name": "rod_png",
+			"type": "image",
+			"url": "assets/rod.png"
+		},
+		{
+			"name": "shuijing_png",
+			"type": "image",
+			"url": "assets/shuijing.png"
+		},
+		{
+			"name": "task_move_png",
+			"type": "image",
+			"url": "assets/task_move.png"
+		},
+		{
+			"name": "task_panel_png",
+			"type": "image",
+			"url": "assets/task_panel.png"
+		},
+		{
+			"name": "u1_png",
+			"type": "image",
+			"url": "assets/u1.png"
+		},
+		{
+			"name": "u2_png",
+			"type": "image",
+			"url": "assets/u2.png"
+		},
+		{
+			"name": "u3_png",
+			"type": "image",
+			"url": "assets/u3.png"
+		},
+		{
+			"name": "u4_png",
+			"type": "image",
+			"url": "assets/u4.png"
+		},
+		{
+			"name": "u5_png",
+			"type": "image",
+			"url": "assets/u5.png"
+		},
+		{
+			"name": "u6_png",
+			"type": "image",
+			"url": "assets/u6.png"
+		},
+		{
+			"name": "userpanel_png",
+			"type": "image",
+			"url": "assets/userpanel.png"
+		},
+		{
+			"name": "wall_png",
+			"type": "image",
+			"url": "assets/wall.png"
+		},
+		{
+			"name": "water_png",
+			"type": "image",
+			"url": "assets/water.png"
+		},
+		{
+			"name": "zuanshi_png",
+			"type": "image",
+			"url": "assets/zuanshi.png"
+		}
+	]
+}
